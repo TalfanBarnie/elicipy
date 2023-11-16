@@ -3,7 +3,8 @@ Repository = 'testWebform'
 # this can be 'seed' or 'target'
 quest_type = 'target'
 
-group_list = ['Group A', 'Group B', 'Group C']
+#group_list = ['Group A', 'Group B', 'Group C']
+group_list = ['Veðurstofa íslands', 'Háskóli Íslands', 'Other']
 
 # target_list = [2,3]
 # seed_list = [1,2]
